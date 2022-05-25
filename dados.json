@@ -1,0 +1,74 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "titulo": "Programador Java Pleno"
+    },
+    {
+      "id": 2,
+      "titulo": "Analista Comercial"
+    },
+    {
+      "id": 3,
+      "titulo": "Instrutor Excel Avançado"
+    },
+    {
+      "id": 4,
+      "titulo": "Gerente de Projetos para .NET"
+    },
+    {
+      "id": 5,
+      "titulo": "Consultor de Desenvolvimento Agil"
+    },
+    {
+      "id": 6,
+      "titulo": "Programador VB.Net"
+    },
+    {
+      "id": 7,
+      "titulo": "Desenvolvedor Front-End"
+    }
+  ],
+  "candidatos": [
+    {
+      "nome": "lucas de oliveira gomes",
+      "data": "",
+      "telefone": "+5594043315",
+      "email": "lucas.driver94@gmail.com",
+      "vaga": "Analista Comercial",
+      "id": 1
+    },
+    {
+      "nome": "felipe",
+      "data": "2000-04-01",
+      "telefone": "119545478",
+      "email": "lksdadjsi!@gmail.com",
+      "vaga": "Instrutor Excel Avançado",
+      "id": 2
+    },
+    {
+      "nome": "sanda",
+      "data": "1994-06-04",
+      "telefone": "121561561",
+      "email": "DKSDSAKDKSAP@GMAIL.COM",
+      "vaga": "Instrutor Excel Avançado",
+      "id": 3
+    },
+    {
+      "nome": "yasmine",
+      "data": "1994-05-07",
+      "telefone": "119545478",
+      "email": "lksdadjsi!@gmail.com",
+      "vaga": "Desenvolvedor Front-End",
+      "id": 4
+    },
+    {
+      "nome": "fel",
+      "data": "",
+      "telefone": "(55) 11 96665-7767  ",
+      "email": "",
+      "vaga": "",
+      "id": 5
+    }
+  ]
+}
